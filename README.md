@@ -2,8 +2,7 @@
 
 **Implementation of Schelling's Model of Racial Segregation Using Python**
 
-### Abstract
-This project aims to simulate Thomas Schelling’s model of racial segregation using Python, demonstrating how individual preferences and tendencies can lead to residential segregation. Schelling’s model is an agent-based approach that showcases the emergence of segregation based solely on neighborhood preferences, with agents representing individuals who relocate within a city. The project comprises two Python files:
+This program helps to simulate Thomas Schelling’s model of racial segregation using Python, demonstrating how individual preferences and tendencies can lead to residential segregation. Schelling’s model is an agent-based approach that showcases the emergence of segregation based solely on neighborhood preferences, with agents representing individuals who relocate within a city. The project comprises two Python files:
 1. **Object Classes File**: Contains all class objects necessary for the program and serves as a reusable library.
 2. **Main File**: Executes the simulation, handles user input, and visualizes the results.
 
