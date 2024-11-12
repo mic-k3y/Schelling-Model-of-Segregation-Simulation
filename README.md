@@ -1,4 +1,3 @@
-
 ## Repo Overview
 
 **Implementation of Schelling's Model of Racial Segregation Using Python**
