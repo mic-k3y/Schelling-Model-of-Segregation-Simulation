@@ -1,9 +1,7 @@
 '''
 main.py
 
-Michael Yilma(Mickey)
-CS 152 B Fall Dec 2022
-Final Project(10)
+Dec 2022
 
 This program is the main file for my final project. It contains pretty much every function needed for the execution of the program.
 When executed, it will first show the home scene by calling the function homeScene. And then after taking the necessary inputs from
