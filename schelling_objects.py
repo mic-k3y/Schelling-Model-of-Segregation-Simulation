@@ -1,9 +1,7 @@
 '''
 schelling_objects.py
 
-Michael Yilma(Mickey)
-CS 152 B Fall Dec 2022
-Final Project(10)
+Dec 2022
 
 This program has classes that are used in the main file to create the different objects and scenes in the window.
 The first class object is Person which is inherited by the classes Red and Blue which show the population race type.
